@@ -1,0 +1,24 @@
+{
+  "name": "NumberGuesser",
+  "version": "1.0.0",
+  "description": "JavaScript Number Guess Game using Skeleton CSS ui boilerplate",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtmtdrv/NumberGuesser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtmtdrv/NumberGuesser/issues"
+  },
+  "homepage": "https://rtmtdrvf.github.io/NumberGuesser"
+}
